@@ -5,5 +5,5 @@ export const Paragraph = ({ children }) => {
 };
 
 Paragraph.propTypes = {
-  children: PropTypes.node.isRequired,
+  children: PropTypes.node,
 };
